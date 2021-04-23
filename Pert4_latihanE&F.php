@@ -7,7 +7,7 @@
 
   <?php
   echo "Perintah break jika digunakan untuk 'menghentikan paksa' proses perulangan yang berlangsung, perintah continue hanya akan menghentikan perulangan yang saat ini terjadi 1 iterasi saja.";
-  ?>
+  
   <br /><br />
   <?php
   $bil1 = 12;
